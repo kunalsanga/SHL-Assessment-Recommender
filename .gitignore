@@ -7,8 +7,4 @@ __pycache__/
 .ruff_cache/
 venv/
 .venv/
-*.npy
-*.index
-app/data/catalog.json
-app/data/catalog_meta.json
 .DS_Store
