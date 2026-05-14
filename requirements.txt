@@ -1,0 +1,22 @@
+# Core API
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# LLM
+google-generativeai==0.8.3
+
+# ML / retrieval
+sentence-transformers==3.3.1
+faiss-cpu==1.9.0.post1
+numpy>=1.26,<3
+
+# Scraping
+beautifulsoup4==4.12.3
+requests==2.32.3
+lxml==5.3.0
+selenium==4.27.1
+
+# Utils
+python-dotenv==1.0.1
